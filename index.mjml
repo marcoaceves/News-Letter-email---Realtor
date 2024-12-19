@@ -1,0 +1,192 @@
+<mjml>
+    <mj-head>
+        <mj-style>
+                * {
+            box-sizing: border-box;
+        }
+                @media (max-width:480px) {
+        .article-title {
+            font-family: Helvetica, Arial, sans-serif !important;
+            font-size: 25px !important;
+            line-height: 30px !important;
+            font-weight: 700 !important;
+            color: #2b2b2b !important;
+            letter-spacing: -0.5px !important;
+            padding-top:25px !important;
+        }
+        .article-paragraph{
+                font-family: Helvetica, Arial, sans-serif !important;
+                font-size: 14px !important;
+                line-height: 24px !important;
+                font-weight: 400 !important;
+                color: #2b2b2b !important;
+                text-align: left;
+        }
+        .mj-button a{
+            font-size: 14px !important;
+            
+        }
+
+      }
+
+        </mj-style>
+        <mj-style inline="inline">
+        .article-title{
+            font-family: Helvetica, Arial, sans-serif !important;
+            font-size: 32px !important;
+            line-height: 40px !important;
+            font-weight: 700 !important;
+            color: #2b2b2b !important;
+            letter-spacing: -0.5px !important;
+            padding-top:25px !important;
+        }
+        .article-paragraph {
+                font-family: Helvetica, Arial, sans-serif !important;
+                font-size: 16px !important;
+                line-height: 24px !important;
+                font-weight: 400 !important;
+                color: #2b2b2b !important;
+        }
+        .copy div{
+        padding: 15px !important;
+        font-family: Arial, sans-serif !important;
+        font-size: 12px !important;
+        line-height: 16px !important;
+        font-weight: 400 !important;
+        color: #757575 !important;
+        }
+        .article-img img{
+            border-radius: 10px !important;
+        }
+        .footer-links{
+            color: #757575 !important;
+        }
+
+
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-raw>
+            <!-- Header -->
+        </mj-raw>
+        <mj-include path="head.mjml" />
+            <!-- artitle 1 -->
+        </mj-raw>
+        <mj-section>
+            <mj-column>
+                <mj-image href="#" src="https://i.postimg.cc/yNtDS8VG/1st-article-img.jpg" alt="apartment-img" css-class="article-img" />
+                <mj-text>
+                    <div class="article-title">
+                    Best Cities for Renters as Minimum Wages Rise and Cost of Housing Falls
+                    </div>
+                </mj-text>
+                <mj-text>
+                    <div class="article-paragraph">
+                    Prices for just about everything seem to be going up, but rents have declined annually for the past 16 consecutive months.
+                    </div>
+                </mj-text>
+                <mj-button href="#" border-radius="8rem" color="#ffffff" background-color="#d92228" font-size="16px" align="left" font-weight="400" css-class="mj-button">
+                    View article
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-raw>
+            <!-- artitle 2 -->
+        </mj-raw>
+        <mj-section>
+            <mj-column >
+                <mj-image href="#" src="https://i.postimg.cc/02sJfjpR/2nd-article-img.jpg" alt="tiki-hut-spa-img"  css-class="article-img"/ >
+                <mj-text font-size="32px" padding="25px">
+                    <div class="article-title">
+                    Key West Paradise With Thatched Tiki Hut Hits the Market for $3.3 Million
+                    </div>
+                </mj-text>
+                <mj-text  font-size="16px" padding="25px">
+                    <div class="article-paragraph">
+                    The sellers completely renovated the Key West abode some years ago, turning it into a vacation paradise complete with a Tiki hut.
+                    </div>
+                </mj-text>
+                <mj-button href="#" border-radius="8rem" color="#ffffff" background-color="#d92228" font-size="16px" align="left" font-weight="400" css-class="mj-button">
+                    View article
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-raw>
+            <!-- artitle 3 -->
+        </mj-raw>
+        <mj-section>
+            <mj-column >
+                <mj-image href="#" src="https://i.postimg.cc/Y0cLTqZF/3rd-article-img.jpg" alt="bath-sink-img" css-class="article-img" />
+                <mj-text  font-size="32px" padding="25px">
+                    <div class="article-title"> 
+                    Expert Reveals Why You Should Never Clean a Bathroom With Bleach
+                    </div>
+                </mj-text>
+                <mj-text font-size="16px" padding="25px">
+                    <div class="article-paragraph">
+                    For those battling mold in the bathroom, an expert has offered her advice on TikTok on making the bathroom the "cleanest it's ever been."
+                    </div>
+                </mj-text>
+                <mj-button href="#" border-radius="8rem" color="#ffffff" background-color="#d92228" font-size="16px" align="left" font-weight="400"css-class="mj-button" >
+                    View article
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-raw>
+            <!-- artitle 4 -->
+        </mj-raw>
+        <mj-section>
+            <mj-column >
+                <mj-image href="#" src="https://i.postimg.cc/G3YyGGTx/4th-article-img.jpg" alt="Donal-Trumps-house-img" css-class="article-img"/>
+                <mj-text  font-size="32px" padding="25px">
+                    <div class="article-title">
+                    Palm Beach Becomes a Mecca for GOP—and More Than $19 Billion Has Flowed Into the Wealthy Enclave Since Trump's First Presidency
+                    </div>
+                </mj-text>
+                <mj-text  font-size="16px" padding="25px">
+                    <div class="article-paragraph">
+                    The impact that President-elect Donald Trump has had on the sleepy community of Palm Beach, FL, can't be overstated.
+                    </div>
+                </mj-text>
+                <mj-button href="#" border-radius="8rem" color="#ffffff" background-color="#d92228" font-size="16px" align="left" font-weight="400"css-class="mj-button" >
+                    View article
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-raw>
+            <!-- artitle 5 -->
+        </mj-raw>
+        <mj-section>
+            <mj-column >
+                <mj-image href="#" src="https://i.postimg.cc/mgdzBSKB/5th-article-img.jpg" alt="Gilded-eAge-Mansion" css-class="article-img" />
+                <mj-text  font-size="32px" padding="25px">
+                    <div class="article-title">
+                    America's Most Expensive Gilded Age Mansion: Inside $500 Million Estate
+                    </div>
+                </mj-text>
+                <mj-text font-size="16px" padding="25px">
+                    <div class="article-paragraph"> 
+                    The Breakers in Newport, RI, was built in 1895 by a scion of the Vanderbilt family, once the richest dynasty in the U.S.
+                    </div>
+                </mj-text>
+                <mj-button href="#" border-radius="8rem" color="#ffffff" background-color="#d92228" font-size="16px" align="left" font-weight="400"css-class="mj-button" >
+                    View article
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-raw>
+            <!-- prefooter section -->
+        </mj-raw>
+        <mj-section>
+            <mj-column>
+            <mj-image href="#" src="https://i.postimg.cc/g0nwJZPR/1st-footer-img.png" alt="enter-sweepstakes" padding="25px"/>
+            <mj-image href="#" src="https://i.postimg.cc/BbxP3ffV/2nd-footer-img.jpg" alt="enter-sweepstakes" />
+                
+            </mj-column>
+        </mj-section>
+        <mj-raw>
+            <!-- footer section -->
+        </mj-raw>
+        <mj-include path="footer.mjml" />
+    </mj-body>
+</mjml>

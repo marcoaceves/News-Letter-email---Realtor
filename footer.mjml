@@ -1,0 +1,16 @@
+        <mj-section background-color="#EFEFEF">
+            <mj-column>
+            <mj-image href="#" src="https://i.postimg.cc/BQBPw3g8/footer-logo.png" alt="enter-sweepstakes" width="243px" />
+            <mj-text align="center" font-family="Arial, sans-serif" font-size="12px" line-height="16px"
+    font-weight="400" color="#000000">
+                901 E 6th St, Austin, TX 78702
+            </mj-text>
+            <mj-text align="center" padding="15px" color="#757575">
+                <a href="#" class="footer-links" >Privacy</a> | <a href="#" class="footer-links">Unsubscribe</a>
+            </mj-text>
+            <mj-text align="center" css-class="copy" color="#000000">
+                © 1995-2024 National Association of REALTORS® and Move, Inc.
+                All rights reserved.
+            </mj-text>
+            </mj-column>
+        </mj-section>

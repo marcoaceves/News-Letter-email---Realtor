@@ -1,0 +1,6 @@
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image href="#" src="https://i.postimg.cc/XYNGRPHs/logo.png" alt="logo" width="141px">
+            </mj-column>
+        </mj-section>
+        <mj-raw>
