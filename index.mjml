@@ -1,10 +1,10 @@
 <mjml>
     <mj-head>
         <mj-style>
-                * {
+            * {
             box-sizing: border-box;
         }
-                @media (max-width:480px) {
+            @media (max-width:480px) {
         .article-title {
             font-family: Helvetica, Arial, sans-serif !important;
             font-size: 25px !important;
@@ -174,7 +174,7 @@
                 </mj-button>
             </mj-column>
         </mj-section>
-        <mj-raw>
+        <mj-raw> 
             <!-- prefooter section -->
         </mj-raw>
         <mj-section>

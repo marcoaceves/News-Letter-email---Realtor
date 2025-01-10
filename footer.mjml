@@ -1,5 +1,5 @@
         <mj-section background-color="#EFEFEF">
-            <mj-column>
+            <mj-column background-color="#EFEFEF">
             <mj-image href="#" src="https://i.postimg.cc/BQBPw3g8/footer-logo.png" alt="enter-sweepstakes" width="243px" />
             <mj-text align="center" font-family="Arial, sans-serif" font-size="12px" line-height="16px"
     font-weight="400" color="#000000">
